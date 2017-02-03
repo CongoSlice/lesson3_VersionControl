@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Lucas West)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment teaches us how to properly set up and use the VCS GitHub.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Git Hub commands are very specific much like code, you need to precisley follow instructions or it will not work properly.)
+2. (Git Hub allows users to work on older versions of the same project.)
+3. (Git Hub aslo allows mutiple developers to work on the same project at the same time. This saves time and, since files can be merged, saves alot of work!)
